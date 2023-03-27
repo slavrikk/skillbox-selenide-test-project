@@ -1,0 +1,8 @@
+1) $(By.xpath("//input[@id='comment']"))
+2) $(By.xpath("//textarea[@name='comments']"))
+3) $(By.cssSelector("input[placeholder='Имя']"))
+4) $(By.xpath("//input[@name='email']"))
+5) $(By.xpath("//li//a[contains(text(),'Интересные статьи')]"))
+6) $(By.xpath("//div[@class='main-content']/div[@class='catalog']"))
+7) $(By.xpath("//div[@class='product-block'][2]"))
+8) $(By.xpath("//header[contains(@class, 'hea')]"))
